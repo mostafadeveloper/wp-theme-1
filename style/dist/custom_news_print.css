@@ -1,0 +1,62 @@
+/*
+	Custom Stylesheet for post print
+*/
+@font-face {
+  font-family: 'BYekan';
+  src: url('./fonts/font-fa/BYekan.eot?#') format('eot'),  /* IE6–8 */
+       url('./fonts/font-fa/BYekan.ttf') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	   local('B Yekan'), /* Search For Local Font, If Can't Find WebFont */
+       url('./fonts/font-fa/BYekan.woff') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+	   unicode-range: U+0600–06FF;
+}
+@font-face {
+  font-family: 'BMitra';
+  src: url('./fonts/font-fa/BMitra.eot?#') format('eot'),  /* IE6–8 */
+       url('./fonts/font-fa/BMitra.ttf') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	   local('B Mitra'), /* Search For Local Font, If Can't Find WebFont */
+       url('./fonts/font-fa/BMitra.woff') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+	   unicode-range: U+0600–06FF;
+}
+@font-face {
+  font-family: 'BNazanin';
+  src: url('./fonts/font-fa/BNazanin.eot?#') format('eot'),  /* IE6–8 */
+       url('./fonts/font-fa/BNazanin.ttf') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	   local('B Nazanin'), /* Search For Local Font, If Can't Find WebFont */
+       url('./fonts/font-fa/BNazanin.woff') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+	   unicode-range: U+0600–06FF;
+}
+* {
+/*padding:0px;*/
+	direction:rtl;
+}
+
+
+/*** main print style : delete above no need attributes ***/
+.ads{
+	display:none;
+}
+.right-menu{
+	display:none;
+}
+.page-header{
+	display:none;
+}
+.top-menu-wrapper{
+	display:none;
+}
+.footer{
+	display:none;
+}
+.meta > pull-right{
+	visibility:hidden;
+}
+
+
+
+
+
+
+
+
+
+

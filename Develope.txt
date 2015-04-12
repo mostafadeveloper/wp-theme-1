@@ -1,0 +1,32 @@
+news site--->
+1-ID of each post is news id
+2-excerpt of each post is short description of each news
+3-news have image thumbnail
+4-image text are justify ir right-align to view good on mobile phones
+5-have send Via SMS
+6-have Send Via Mail(get post id-send mail) 
+7-add a filter for content to add "News End" word to each post(news)
+8-a zoomer and unzommer(copy from persian site)
+9-a slider for contents thumbnails
+10-a script for type news titles& hide & show them
+11-see today news(post) numberitc show
+12-have a comment section on bottom of each page
+13-  if author not admin , then add other author name and family on top of each news
+Correct --->
+2- smallest mediaum-menu
+4-code for zoom and unzoom
+
+
+===========================================================================
+===========================================================================
+===========================================================================
+1- How add images width and heoght on wordpress?
+2- How add active class to active <li> and how add a class to all of <li>
+3- add bottom menu on center...
+4- a ads widget for adding image to left-sidebar
+5- a wp_query that show relate post that just publish on this weeek(for show on index page under each news)
+6- most comment post(popular post by num_comments)
+7- most visited posts
+8- This is a new programming language
+8- a template page or just a page that show list of site rsslinks
+6- a theme option page
